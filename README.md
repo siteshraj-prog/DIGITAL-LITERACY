@@ -3,7 +3,7 @@
 
 **Student Ambassador:** Sitesh Raj - 25BSA10110 (1st Year B.Tech.)
 
-**Institution:** VIT Bhopal University Batch 2025-2029 (B.Tech. AI - Computational Physics)
+**Institution:** VIT Bhopal University Batch 2025-2029
 
 This repository is a record of what I have learned about digital literacy, professional presence, and cybersecurity as a student in the first year of my B.Tech (E)AI; it will assist my fellow students with navigating the digital world safely and effectively.
 
