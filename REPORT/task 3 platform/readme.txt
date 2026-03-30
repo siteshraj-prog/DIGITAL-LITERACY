@@ -1,1 +1,5 @@
+For this task, I used HackerRank for technical skill validation and Google Workspace for collaboration. For technical validation, I completed the introductory problems for the Python course on HackerRank. For collaboration, I created a 'Digital Literacy Awareness Quiz' using Google Forms and connected it to Google Sheets for response tracking.
 
+These platforms are crucial for my academic journey at VIT Bhopal for many reasons. For instance, HackerRank allows me to master programming languages like Python and C++, which are crucial for my passion for computational physics and AI. At the same time, mastering Google Workspace will help me lead effectively within the technical team . By combining these tools in my journey, I am moving beyond passive learning and taking on professional habits that will be crucial for high-level engineering projects and collaborations.
+
+google form link-https://docs.google.com/forms/d/e/1FAIpQLSeFuGaLwJp-qmjNRkFb3RX8bCvVgNdIUoCVN-rcuxinXhtBSw/viewform?usp=dialog
